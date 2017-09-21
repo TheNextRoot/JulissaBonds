@@ -1,0 +1,61 @@
+#About_Me {
+  padding-top: 80px;
+  height: 600px;
+  background-color: #009999;
+  color: white;
+}
+
+#Projects {
+  padding-top: 50px;
+  height: 700px;
+  background-color: #00ff99;
+}
+
+#Contact {
+  padding-top: 50px;
+  height: 800px;
+  background-color: #ffff66;
+}
+
+p {
+  font-size: 24px;
+  padding-top: 20px;
+}
+
+.proj1 {
+  width: 350px;
+  height: 350px;
+}
+
+.proj2 {
+  width: 300px;
+  height: 300px;
+}
+
+.proj3 {
+  width: 300px;
+  height: 300px;
+}
+
+
+.profile {
+ border-radius: 50%;
+}
+
+#image img {
+  float: left;
+}
+
+#content {
+ text-align: justify;
+}
+
+.heading {
+  font-weight: bold;
+  text-align: center;
+}
+
+.daisies {
+  width: 100%;
+  padding-top: 30px;
+}
