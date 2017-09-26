@@ -1,50 +1,49 @@
-#About_Me {
-  padding-top: 80px;
-  height: 600px;
+#Home {
+  padding-top: 80px;  
   background-color: #009999;
+  margin-bottom: -10px;
   color: white;
 }
 
+#About_Me {
+  padding-top: 20px;
+  background-color: #cc66ff; 
+  margin-bottom: -10px;
+}
+
 #Projects {
-  padding-top: 50px;
-  height: 700px;
-  background-color: #00ff99;
+  background-color: #009999;
+  margin-bottom: -20px;
+  padding-top: 20px;
+  color: white;
 }
 
 #Contact {
-  padding-top: 50px;
-  height: 300px;
-  background-color: #ffff66;
+  background-color: #cc66ff;
+  padding-top: 20px;
 }
 
 p {
   font-size: 24px;
   padding-top: 20px;
+  padding-left: 10px;
+  padding-right: 10px;
 }
 
 .proj1 {
-  width: 350px;
-  height: 350px;
+ padding-left: 10px;
 }
 
 .proj2 {
-  width: 300px;
-  height: 300px;
+  width: 250px;
+  height: 250px;
 }
 
 .proj3 {
-  width: 300px;
-  height: 300px;
+  width: 250px;
+  height: 250px;
 }
 
-
-.profile {
- border-radius: 50%;
-}
-
-#image img {
-  float: left;
-}
 
 #content {
  text-align: justify;
@@ -59,4 +58,10 @@ p {
   padding-left: 0px;
   padding-right: 0px;
 }
+
+.profile {
+  border-radius: 50%;
+  margin: auto;
+}
+
 
