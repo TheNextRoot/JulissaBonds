@@ -7,8 +7,9 @@
 
 #About_Me {
   padding-top: 20px;
-  background-color: #cc66ff; 
+  background-color: #ff6633; 
   margin-bottom: -10px;
+  color: white;
 }
 
 #Projects {
@@ -19,8 +20,9 @@
 }
 
 #Contact {
-  background-color: #cc66ff;
+  background-color: #ff6633;
   padding-top: 20px;
+  color: white;
 }
 
 p {
